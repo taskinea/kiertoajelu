@@ -1,5 +1,5 @@
 
-public class HeiAdaLovelace {
+public class HeiAnnaLovelace {
 
     public static void main(String[] args) {
         String nimi = "Anna Taskinen";
