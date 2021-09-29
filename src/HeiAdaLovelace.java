@@ -6,7 +6,7 @@ public class HeiAdaLovelace {
 
         System.out.println("Hei " + nimi + "!");
 
-        System.out.println("pöö!");
+        System.out.println("pöö! ja höö");
 
     }
 }
